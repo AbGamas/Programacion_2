@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/abrah/Documents/Maestr%C3%ADa/Segundo_semestre/Programacion_2/Challenge_1/Script/mlruns/763216114415809935/a1a515857dd14b56847e941e4e2192fc/artifacts
+end_time: 1743189135361
+entry_point_name: ''
+experiment_id: '763216114415809935'
+lifecycle_stage: active
+run_id: a1a515857dd14b56847e941e4e2192fc
+run_name: rogue-frog-147
+run_uuid: a1a515857dd14b56847e941e4e2192fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743189131648
+status: 3
+tags: []
+user_id: abrah

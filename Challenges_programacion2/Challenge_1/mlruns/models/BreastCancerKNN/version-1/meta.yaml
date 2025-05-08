@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1743189185990
+current_stage: None
+description: null
+last_updated_timestamp: 1743189185990
+name: BreastCancerKNN
+run_id: 46863c568b674cbf984aa21299151814
+run_link: null
+source: file:///c:/Users/abrah/Documents/Maestr%C3%ADa/Segundo_semestre/Programacion_2/Challenge_1/Script/mlruns/763216114415809935/46863c568b674cbf984aa21299151814/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/abrah/Documents/Maestr%C3%ADa/Segundo_semestre/Programacion_2/Challenge_1/Script/mlruns/763216114415809935/46863c568b674cbf984aa21299151814/artifacts/model
+user_id: null
+version: 1
