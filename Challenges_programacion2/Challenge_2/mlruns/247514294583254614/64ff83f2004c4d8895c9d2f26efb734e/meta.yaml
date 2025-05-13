@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/247514294583254614/64ff83f2004c4d8895c9d2f26efb734e/artifacts
+end_time: 1747104372204
+entry_point_name: ''
+experiment_id: '247514294583254614'
+lifecycle_stage: active
+run_id: 64ff83f2004c4d8895c9d2f26efb734e
+run_name: mercurial-quail-462
+run_uuid: 64ff83f2004c4d8895c9d2f26efb734e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747104371850
+status: 3
+tags: []
+user_id: abrah
